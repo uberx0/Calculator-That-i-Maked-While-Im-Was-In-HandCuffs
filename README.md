@@ -1,1 +1,1 @@
-# simple calculator from biggest qui friend(omg he named me "bro")
+# simple calculator from biggest qui friend
